@@ -1,0 +1,23 @@
+Array representation in java
+
+int[] intArray = new int[20];
+  int a[4] = [1,2,3,4,5];
+coding question on Array
+
+1. Array representation and access element of Array
+2. reverse Array
+3. Sort Array
+4. rotate Array
+5. Kadane’s algorithm
+6. Dutch national flag algorithm
+7. Find the Kth largest and Kth smallest number in an array
+8. Find the minimum and maximum element in an array
+9. Find a peak element which is not smaller than its neighbors
+10. Find the occurrence of an integer in the array
+11. Move all the negative elements to one side of the array
+12. Find the Union and Intersection of the two sorted arrays
+13. Majority elements
+14. Missing and Repeating Numbers
+find subarray with  K sum 
+Trapping Rain Water
+
