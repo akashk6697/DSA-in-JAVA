@@ -1,0 +1,28 @@
+Matrix is a 2D array representation
+
+// represention of matix in java
+
+int matrix[][] = new int [n][m];
+for(int i=0;i<n;i++){
+    for(int j=0;j<m;j++){
+        matrix[i][j] = sc.nextInt();
+    }
+}
+
+Important coding questions on matrix
+1. Search in matrix
+2. Sort matrix
+3. Transpose of matrix
+4. Sprial form of matrix
+5. Snake pattern on matrix
+6. Rotate by 90 degree
+7. Program to print the Diagonals of a Matrix
+8. Find median in a row wise sorted matrix
+9. Kth smallest/largest element in a row-column wise sorted matrix
+10. Maximum size rectangle of all 1s
+11. Set Matrix Zeros
+12. Numbers of Island (using DFS)
+13. Find row with maximun no. of 1s
+14. print elements in sorted order using row-column wise sorted matrix
+15. Find a specipic pair in matrix 
+16. Common elements in all rows of a given matrix 
