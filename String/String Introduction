@@ -1,0 +1,12 @@
+String representation in java
+ There are four ways to declare string in java.
+1. String s = "Akash";
+    String s1 = new String("GeeksforGeeks"); 
+2.  char []arr = {'A','K','A','S','H'};
+
+3. StringBuffer class
+      StringBuffer str = new StringBuffer("Akash");
+4. StringBuilder class
+       StringBuilder str1 = new StringBuilder("GeeksforGeeks");      
+
+   
