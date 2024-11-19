@@ -1,0 +1,57 @@
+Tree is Hiearchical Data Structure
+
+Mainly Binary Tree and Binary Search Tree are important ---- 
+Understand the Node structure of Binary Tree
+
+Implement Binary Tree ---
+Add Node
+Remove Node
+Traverse Node 
+
+Binary Tree Coding questions ----
+
+PreOrder Traversal
+InOrder Traversal
+PostOrder Traversal
+Construct Binary Tree from Inorder and PostOrder
+Level Order Traversal --- 2 approach first naive using height of tree and second efficient using queue
+Zig-Zag Level Order Traversal
+Reverse Level Order Traversal -- 
+height of Binary Tree
+Diameter of Binary Tree
+Left/Right/Top/Bottom view of Binary Tree
+Sum Tree
+Mirror Tree
+Check for BST
+Same Tree
+Invert Binary Tree
+Symmetric Binary Tree
+Vertical Order Traversal 
+Maximum Width of Binary Tree
+Maximum Depth of Binary Tree
+Diameter of Binary Tree
+Balanced Binary Tree
+Lowest Common Ancestor (LCA) of a Binary Tree
+Identify the Path to the given Node
+Binary Tree Maximum Path Sum
+Flatten Binary Tree to Linked List
+Mirror Binary Tree
+Serialize and Deserialize Binary Tree
+Vertical sum of nodes in Binary Tree
+
+
+Understand Binary Search Tree
+search an Element in BST
+Understand the complexity of searching in BST
+Find the Lowest Common Ancestor of the given node in BST.
+Convert Sorted Array to Binary Search Tree
+Convert a given Binary Tree to Doubly Linked List
+Validate Binary Tree
+Construct BST from PreOrder Traversal
+Recover BST
+Identify the Predecessor and Successor of a Node in BST
+Kth Smallest Element in a BST
+Two Sum - Input is BST
+
+
+

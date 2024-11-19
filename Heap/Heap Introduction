@@ -1,0 +1,8 @@
+Heap is a Complete Binary Tree and there are 2 types of heaps
+
+Max Heap ---- root node > all child nodes
+Min Heap ---- root node < all child nodes
+
+Heap Sort 
+
+Heapify - It is the process to rearrange the elements to maintain the property of heap data structure. It is done when a certain node creates an imbalance in the heap due to some operations on that node. It takes O(log N) to balance the tree. 

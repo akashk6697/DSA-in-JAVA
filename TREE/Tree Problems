@@ -1,0 +1,8 @@
+Introduction of Binary Trees
+
+Tree Traversals
+InOrder/PreOrder/PostOrder Traversals
+
+--- Check given array is inorder traversal of binary tree
+
+ Solution ---- There is a property  in inoreder traversal of bst is that it gives the element in increasing order, so if our array is sorted in Ascending order the it means it can be converted in in order traversal of BST. 

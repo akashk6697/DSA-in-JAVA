@@ -5,11 +5,11 @@ int[] intArray = new int[20];
 coding question on Array
 
 1. Array representation and access element of Array
-2. reverse Array
-3. Sort Array
+2. reverse Array ---
+3. Sort Array ---- 
 4. rotate Array
 5. Kadane’s algorithm
-6. Dutch national flag algorithm
+6. Dutch national flag algorithm (Sort 0 , 1 , 2)
 7. Find the Kth largest and Kth smallest number in an array
 8. Find the minimum and maximum element in an array
 9. Find a peak element which is not smaller than its neighbors
@@ -18,6 +18,21 @@ coding question on Array
 12. Find the Union and Intersection of the two sorted arrays
 13. Majority elements
 14. Missing and Repeating Numbers
-find subarray with  K sum 
-Trapping Rain Water
-
+15. find subarray with  K sum 
+16. Trapping Rain Water
+17. Second Largest Element in array
+18. Remove Duplicate in an array
+19. Move zeros to end
+20. Leaders in array
+21. Stock Buy and Sell Problem
+22. maximum subarray sum
+23. subarray with given sum
+24. Prefix Sum
+25. Equilibrium Point
+26. Wave Array
+27. Longest Subarray Of Evens And Odds
+28. Reverse array in groups
+29. Minimun Consecutive Flips
+30. Maximum Appearing Element
+31. Set Matrix zeros
+32. Next Permutation

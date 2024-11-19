@@ -10,3 +10,42 @@ String representation in java
        StringBuilder str1 = new StringBuilder("GeeksforGeeks");      
 
    
+       Reverse words in a given string 
+       Longest Common Prefix 
+       Roman Number to Integer  
+       Integer to Roman  
+       Closest Strings 
+       Divisible by 7  
+       Encrypt the String – II  
+       Equal point in a string of brackets 
+       Isomorphic Strings 
+       Check if two strings are k-anagrams or not 
+       Panagram Checking 
+       Minimum Deletions  
+       Number of Distinct Subsequences  
+       Check if string is rotated by two places
+       Implement Atoi 
+       Validate an IP address 
+       License Key Formatting  
+       Find largest word in dictionary  
+       Equal 0,1, and 2 
+       Find and replace in String 
+       Add Binary Strings 
+       Sum of two large numbers  
+       Multiply two strings
+       Look and say Pattern 
+       Minimum times A has to be repeated to make B a Substring  
+       Form a Palindrome 
+       Find the N-th character  
+       Next higher palindromic number using the same set of digits  
+       Length of longest prefix suffix 
+       Longest K unique characters substring 
+       Smallest window in string containing all characters  
+       Longest Palindromic Subsequence 
+       Longest substring without repeating characters  
+       Substrings of length k with k-1 distinct elements  
+       Count number of substrings 
+       Interleaved Strings 
+       Print Anagrams together 
+       Rank the permutation 
+       A Special Keyboard

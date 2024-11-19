@@ -1,0 +1,250 @@
+Coding Questions asked in Amazon
+
+Subarray with given sum
+Check for BST
+Minimum number of jumps
+Kadane's Algorithm
+Missing number in array
+Left View of Binary Tree
+Remove loop in Linked List
+Find duplicates in an array
+Detect Loop in linked list
+Kth smallest element
+Sort an array of 0s, 1s and 2s
+Majority Element
+Nth node from end of linked list
+Finding middle element in a linked list
+Detect cycle in a directed graph
+Reverse a linked list
+Peak element
+Check if Linked List is Palindrome
+Detect cycle in an undirected graph
+Count Inversions
+BFS of graph
+Boundary Traversal of binary tree
+Diameter of a Binary Tree
+Get minimum element from stack
+Intersection Point in Y Shapped Linked Lists
+Equilibrium Point
+Parenthesis Checker
+Count pairs with given sum
+Trapping Rain Water
+Maximum Product Subarray
+Check for Balanced Tree
+Find triplets with zero sum
+Height of Binary Tree
+Rotate a Linked List
+Find Transition Point
+Add two numbers represented by linked lists
+Rotate Array
+0 - 1 Knapsack Problem
+Determine if Two Trees are Identical
+Minimum Platforms
+Validate an IP Address
+Delete without head pointer
+Maximum Path Sum between 2 Leaf Nodes
+Longest consecutive subsequence
+Find Missing And Repeating
+Sum Tree
+Smallest Positive missing number
+Rat in a Maze Problem - I
+Largest subarray with 0 sum
+Level order traversal in spiral form
+Reverse a Linked List in groups of given size.
+The Celebrity Problem
+Bottom View of Binary Tree
+Triplet Sum in Array
+Mirror Tree
+Vertical Traversal of Binary Tree
+DFS of Graph
+Level order traversal
+Remove duplicates from an unsorted linked list
+Find the number of islands
+Print all nodes that don't have sibling
+Lowest Common Ancestor in a Binary Tree
+Next Greater Element
+Minimum distance between two numbers
+Add 1 to a number represented as linked list
+Multiply two strings
+Partition Equal Subset Sum
+Square root of a number
+Implement Atoi
+Wave Array
+Row with max 1s
+Palindrome String
+Circular tour
+LRU Cache
+Reverse words in a given string
+Merge two sorted linked lists
+Implement strstr
+Check if subtree
+Topological sort
+Inorder Traversal
+Frequencies of Limited Range Array Elements
+Binary Tree to DLL
+Queue using two Stacks
+Maximum Index
+Maximize The Cut Segments
+N meetings in one room
+Product array puzzle
+Lowest Common Ancestor in a BST
+Quick Sort
+Divide and Conquer
+Right View of Binary Tree
+Preorder Traversal
+Coin Change
+Stack using two queues
+Flattening a Linked List
+First Repeating Element
+Merge Sort
+First and last occurrences of x
+Longest Common Subsequence
+Stock buy and sell
+Max length chain
+Count distinct elements in every window
+Given a linked list of 0s, 1s and 2s, sort it.
+Subset Sum Problem
+Maximum of all subarrays of size k
+Find length of Loop
+Insert a node in a BST
+Binary Search Tree
+Reverse Level Order Traversal
+Root to leaf path sum
+Connect Nodes at Same Level
+Stock span problem
+Longest Increasing Subsequence
+Construct Tree from Inorder & Preorder
+ZigZag Tree Traversal
+Symmetric Tree
+Find Pair Given Difference
+Pairwise swap elements of a linked list
+Check if string is rotated by two places
+Index Of an Extra Element
+Delete a node from BST
+Count the triplets
+Union of Two Sorted Arrays
+Solve Problem
+Josephus problem
+Kth largest element in BST
+Longest Palindrome in a String
+Nth Fibonacci Number
+Edit Distance
+Largest BST
+Intersection of two sorted Linked lists
+Sort a stack
+Stickler Thief
+Value equal to index value
+Interleaved Strings
+Implement Queue using array
+Perfect Sum Problem
+Largest subarray of 0's and 1's
+Min distance between two given nodes of a Binary Tree
+Non Repeating Character
+k-th smallest element in BST
+Minimum Cost of ropes
+Delete nodes having greater value on right
+Longest Common Substring
+Floor in a Sorted Array
+Find All Four Sum Numbers
+Level order traversal Line by Line
+Count ways to reach the n'th stair
+K distance from root
+Special Stack
+Key Pair
+Heap Sort
+Heap
+Third largest element
+Number of Coins
+Smallest window in a string containing all the characters of another string
+Egg Dropping Puzzle
+Permutations of a given string
+Valid Substring
+Allocate minimum number of pages
+Minimum Spanning Tree
+Binary Heap Operations
+Max rectangle
+Steps by Knight
+First non-repeating character in a stream
+Delete Middle of Linked List
+Minimum sum partition
+Leaf at same level
+Max Circular Subarray Sum
+Alternate positive and negative numbers
+Count Pairs whose sum is equal to X
+Merge k Sorted Arrays
+Max sum in the configuration
+Reverse First K elements of Queue
+Search in a Rotated Array
+Merge K sorted linked lists
+Longest Repeating Subsequence
+Transform to Sum Tree
+Replace all 0's with 5
+Find the median
+Bitonic Point
+Prime Number
+Inorder Successor in BST
+Palindromic Partitioning
+M-Coloring Problem
+Longest Prefix Suffix
+Count the Zeros
+Roman Number to Integer
+Diagonal Traversal of Binary Tree
+Number of occurrence
+Next Permutation
+Check if Tree is Isomorphic
+Maximum difference between node and its ancestor
+Insert in a Sorted List
+Rearrange an array with O(1) extra space
+Maximum Width of Tree
+Maximum sum increasing subsequence
+Count the number of possible triangles
+Sorted insert for circular linked list
+Minimum Depth of a Binary Tree
+Queue Reversal
+k largest elements
+Largest number in K swaps
+Longest Sub-Array with Sum K
+Strongly Connected Components (Kosaraju's Algo)
+Merge Sort for Linked List
+Smallest subarray with sum greater than x
+Zero Sum Subarrays
+Unique BST's
+Clone a linked list with next and random pointer
+Delete node in Doubly Linked List
+First negative integer in every window of size k
+Serialize and Deserialize a Binary Tree
+Count number of hops
+Boolean Parenthesization
+Non Repeating Numbers
+Gold Mine Problem
+Run Length Encoding
+Print BST elements in given range
+Word Break
+Rotten Oranges
+Count triplets with sum smaller than X
+Intersection of Two Linked Lists
+Rotation
+Knapsack with Duplicate Items
+Alien Dictionary
+Jump Game
+Find the Closest Element in BST
+Combination Sum
+Length of the longest substring
+Counting elements in two arrays
+Search in a matrix
+Swap Kth nodes from ends
+Median of 2 Sorted Arrays of Different Sizes
+K largest elements
+Largest Number formed from an Array
+Swapping pairs make sum equal
+Anagram of String
+Find a pair with given target in BST
+Longest K unique characters substring
+Hash
+Binary Tree to BST
+Maximum path sum in matrix
+Reorder List
+Stock buy and sell
+Kth element in Matrix
+Sorted subsequence of size 3
+Find whether path exist

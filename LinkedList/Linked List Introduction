@@ -10,6 +10,7 @@ Insertion and Deletion in Circular Linked List
 Insertion and Deletion in Doubly Linked List
 Reverse a Linked List
 Rotate a Linked List
+Middle of the Linked List
 Reverse in group in linked list
 Sort 0,1,2 in linked list
 Palindrome Linked List
@@ -17,3 +18,8 @@ Detect loop in linked list
 length of loop in linked list
 Delete loop in Linked List
 Merge two linked list
+Merge K Sorted Lists
+Remove Nth Node from End of List
+Intersection of two Linked List
+Reversed Node in K-group
+LRU Cache

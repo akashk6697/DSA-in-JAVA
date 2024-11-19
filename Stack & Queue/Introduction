@@ -1,0 +1,14 @@
+Stack is a linear data structure. 
+Operation perform on Stack - push(),pop(),top(),isEmpty()
+Queue is a linear data structure.
+Operation perforn on Queue --- front,rear
+
+Coding Questions on Stack and Queue 
+Implement Stack using Queue
+Implement Queue using Stack
+Min Stack
+Valid Parenthesis
+Trapping Rain Water Problem
+Longest Valid Parenthesis
+Largest Rectangle in Histogram
+

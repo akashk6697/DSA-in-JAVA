@@ -1,0 +1,18 @@
+Two pointer approach ----- There are two pointers used in these problems
+
+
+pair of elements (A[i], A[j]) such that their sum is equal to X.
+Find the closest pair from two sorted arrays
+Find the pair in array whose sum is closest to x
+Find all triplets with zero sum
+Find a triplet that sum to a given value
+Find a triplet such that sum of two equals to third element
+Find four elements that sum to a given value
+
+
+Floyd’s Cycle Finding Algorithm ---- this algorithm uses two pointer 
+
+Detect cycle or loop in linked list
+find length of loop
+remove loop or cycle in linked list
+
