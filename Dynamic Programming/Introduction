@@ -1,0 +1,20 @@
+The basic concepts of dynamic programming are similar to recursion.
+Dynamic programming works when a problem has the following characteristics:
+1. Optimal Substructure: If an optimal solution contains optimal subsolutions, then a problem exhibits optimal
+substructure.
+2.  Overlapping subproblems: When a recursive algorithm visits the same subproblems repeatedly, then a problem
+has overlapping subproblems.
+
+In Divide and Conquer technique the subproblems are independent of each other.
+In Dynamic Programming, the subproblems are dependent on each other and they overlap.
+
+
+There are two different methods to store pre calculated values to save time.
+It is a bottom up approach.
+
+To calculate the factorial of a given number (n)!, you can store the previous products (n-1)! and just multiply it with n.
+
+The relation can be expressed as f[n]=f[n-1]*(n) Complexity
+
+Memoization is a form of caching and is used to optimise recursion.
+It remembers the result of a function call with particular inputs in a lookup table (generally referred to as the "memo")
